@@ -5,6 +5,7 @@ Title: Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Medi
 
 Authors: <a href="https://honglizhan.github.io/">Hongli Zhan</a>, <a href="https://www.tsosea.com/">Tiberiu Sosea</a>, <a href="https://www.cs.uic.edu/~cornelia/">Cornelia Caragea</a>, <a href="https://jessyli.com/">Professor Junyi Jessy Li</a>
 
+```
 @inproceedings{ZhanETAL22CovidET,
   title       =       "Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Media Posts",
   author      =       "Zhan, Hongli and Sosea, Tiberiu and Caragea, Cornelia and Li, Junyi Jessy",
@@ -12,6 +13,7 @@ Authors: <a href="https://honglizhan.github.io/">Hongli Zhan</a>, <a href="https
   pages       =       {To appear},
   year        =       {2022},
 }
+```
 
 For legal concerns, we only release the annotations and the corresponding IDs in Reddit (and *not* original posts). We recommend using the the <a href="https://psaw.readthedocs.io/en/latest/">PSAW wrapper for Pushshift API</a> to gather the original Reddit posts from the Reddit IDs in the dataset. Note that for privacy issues, we also anonymize the names of people as well as businesses mentioned in our dataset.
 
