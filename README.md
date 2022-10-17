@@ -9,7 +9,7 @@ Authors: <a href="https://honglizhan.github.io/">Hongli Zhan</a>, <a href="https
 @inproceedings{ZhanETAL22CovidET,
   title = "Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Media Posts",
   author = "Zhan, Hongli and Sosea, Tiberiu and Caragea, Cornelia and Li, Junyi Jessy",
-  booktitle = "Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+  booktitle = "Proceedings of the Conference on Empirical Methods in Natural Language Processing",
   pages = {To appear},
   year = {2022},
 }
