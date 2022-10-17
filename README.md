@@ -5,7 +5,7 @@ Title: Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Medi
 
 Authors: <a href="https://honglizhan.github.io/">Hongli Zhan</a>, <a href="https://www.tsosea.com/">Tiberiu Sosea</a>, <a href="https://www.cs.uic.edu/~cornelia/">Cornelia Caragea</a>, <a href="https://jessyli.com/">Junyi Jessy Li</a>
 
-```python
+```bibtex
 @inproceedings{ZhanETAL22CovidET,
   title = {Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Media Posts},
   author = {Zhan, Hongli and Sosea, Tiberiu and Caragea, Cornelia and Li, Junyi Jessy},
