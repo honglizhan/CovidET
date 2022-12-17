@@ -32,9 +32,9 @@ TOKENIZERS_PARALLELISM=false python emotion_detection.py --emotion <emotion> --t
 
 **Summarization**:
 
-```
+`
 TOKENIZERS_PARALLELISM=false python emotion_summarization.py --emotion <emotion> --training_path <...> ---validation_path <...> --test_path <...> --model facebook/bart-large-cnn --batch_size <...> --gradient_accumulation_steps <...> --results_summarization <filename> --learning_rate <...>
-```
+`
 
 **Detection and Summarization**:
 
