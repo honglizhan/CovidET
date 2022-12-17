@@ -27,7 +27,16 @@ To use the code, please first expand the Json files in the `train_val_test` dire
 **Emotion Detection**:
 
 ```
-TOKENIZERS_PARALLELISM=false python emotion_detection.py --emotion <emotion> --training_path <...> ---validation_path <...> --test_path <...> --model bert-large-uncased --batch_size <...> --gradient_accumulation_steps <...> --results_detection <filename> --learning_rate <...>
+$ TOKENIZERS_PARALLELISM=false python emotion_detection.py \
+    --emotion <emotion> \
+    --training_path <...> \
+    --validation_path <...> \
+    --test_path <...> \
+    --model bert-large-uncased \
+    --batch_size <...> \
+    --gradient_accumulation_steps <...> \
+    --results_detection <filename> \
+    --learning_rate <...>
 ```
 
 **Summarization**:
@@ -48,5 +57,14 @@ $ TOKENIZERS_PARALLELISM=false python emotion_summarization.py \
 **Detection and Summarization**:
 
 ```
-TOKENIZERS_PARALLELISM=false python detection_summarization.py --emotion <emotion> --training_path <...> ---validation_path <...> --test_path <...> --model facebook/bart-large-cnn --batch_size <...> --gradient_accumulation_steps <...> --results_detection_summarization <filename> --learning_rate <...>
+$ TOKENIZERS_PARALLELISM=false python detection_summarization.py \
+    --emotion <emotion> \
+    --training_path <...> \
+    --validation_path <...> \
+    --test_path <...> \
+    --model facebook/bart-large-cnn \
+    --batch_size <...> \
+    --gradient_accumulation_steps <...> \
+    --results_detection_summarization <filename> \
+    --learning_rate <...>
 ```
