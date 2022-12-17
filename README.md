@@ -31,12 +31,12 @@ $ TOKENIZERS_PARALLELISM=false python emotion_detection.py \
 	--emotion <emotion> \
 	--training_path <...> \
 	--validation_path <...> \
-  --test_path <...> \
-  --model bert-large-uncased \
-  --batch_size <...> \
-  --gradient_accumulation_steps <...> \
-  --results_detection <filename> \
-  --learning_rate <...>
+	--test_path <...> \
+	--model bert-large-uncased \
+	--batch_size <...> \
+	--gradient_accumulation_steps <...> \
+	--results_detection <filename> \
+	--learning_rate <...>
 ```
 
 **Summarization**:
@@ -44,27 +44,27 @@ $ TOKENIZERS_PARALLELISM=false python emotion_detection.py \
 ```bash
 $ TOKENIZERS_PARALLELISM=false python emotion_summarization.py \
 	--emotion <emotion> \
-  --training_path <...> \
-  --validation_path <...> \
-  --test_path <...> \
-  --model facebook/bart-large-cnn \
-  --batch_size <...> \
-  --gradient_accumulation_steps <...> \
-  --results_summarization <filename> \
-  --learning_rate <...>
+	--training_path <...> \
+	--validation_path <...> \
+	--test_path <...> \
+	--model facebook/bart-large-cnn \
+	--batch_size <...> \
+	--gradient_accumulation_steps <...> \
+	--results_summarization <filename> \
+	--learning_rate <...>
 ```
 
 **Detection and Summarization**:
 
 ```bash
 $ TOKENIZERS_PARALLELISM=false python detection_summarization.py \
-  --emotion <emotion> \
-  --training_path <...> \
-  --validation_path <...> \
-  --test_path <...> \
-  --model facebook/bart-large-cnn \
-  --batch_size <...> \
-  --gradient_accumulation_steps <...> \
-  --results_detection_summarization <filename> \
-  --learning_rate <...>
+	--emotion <emotion> \
+	--training_path <...> \
+	--validation_path <...> \
+	--test_path <...> \
+	--model facebook/bart-large-cnn \
+	--batch_size <...> \
+	--gradient_accumulation_steps <...> \
+	--results_detection_summarization <filename> \
+	--learning_rate <...>
 ```
