@@ -6,12 +6,20 @@ Title: Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Medi
 Authors: <a href="https://honglizhan.github.io/">Hongli Zhan</a>, <a href="https://www.tsosea.com/">Tiberiu Sosea</a>, <a href="https://www.cs.uic.edu/~cornelia/">Cornelia Caragea</a>, <a href="https://jessyli.com/">Junyi Jessy Li</a>
 
 ```bibtex
-@inproceedings{ZhanETAL22CovidET,
-  author = {Zhan, Hongli and Sosea, Tiberiu and Caragea, Cornelia and Li, Junyi Jessy},
-  title = {Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Media Posts},
-  booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing},
-  pages = {To appear},
-  year = {2022},
+@inproceedings{zhan-etal-2022-feel,
+    title = "Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Media Posts",
+    author = "Zhan, Hongli  and
+      Sosea, Tiberiu  and
+      Caragea, Cornelia  and
+      Li, Junyi Jessy",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.642",
+    pages = "9436--9453",
+    abstract = "Crises such as the COVID-19 pandemic continuously threaten our world and emotionally affect billions of people worldwide in distinct ways. Understanding the triggers leading to people{'}s emotions is of crucial importance. Social media posts can be a good source of such analysis, yet these texts tend to be charged with multiple emotions, with triggers scattering across multiple sentences. This paper takes a novel angle, namely, emotion detection and trigger summarization, aiming to both detect perceived emotions in text, and summarize events and their appraisals that trigger each emotion. To support this goal, we introduce CovidET (Emotions and their Triggers during Covid-19), a dataset of {\textasciitilde}1,900 English Reddit posts related to COVID-19, which contains manual annotations of perceived emotions and abstractive summaries of their triggers described in the post. We develop strong baselines to jointly detect emotions and summarize emotion triggers. Our analyses show that CovidET presents new challenges in emotion-specific summarization, as well as multi-emotion detection in long social media posts.",
 }
 ```
 
