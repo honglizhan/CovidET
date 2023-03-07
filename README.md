@@ -80,4 +80,4 @@ $ TOKENIZERS_PARALLELISM=false python detection_summarization.py \
 	--learning_rate <...>
 ```
 
-<a href="https://www.revolvermaps.com/livestats/57j0rba3sir/"><img src="//rf.revolvermaps.com/w/3/s/a/1/0/0/ffffff/010020/aa0000/57j0rba3sir.png" alt="Stats" style="border:0;"></a>
+<a href="https://www.revolvermaps.com/livestats/5wznnikjxi0/"><img src="//rf.revolvermaps.com/w/3/s/a/0/40/2/ffffff/010020/aa0000/5wznnikjxi0.png" alt="Stats" style="border:0;"></a>
