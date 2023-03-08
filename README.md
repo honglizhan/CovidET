@@ -81,3 +81,5 @@ $ TOKENIZERS_PARALLELISM=false python detection_summarization.py \
 ```
 
 [![RevolverMaps Live Traffic Map](https://rf.revolvermaps.com/w/3/s/a/7/0/0/ffffff/010020/aa0000/53advquazq5.png)](https://www.revolvermaps.com/livestats/53advquazq5/)
+
+[<a href='https://clustrmaps.com/site/1btfs'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=a&t=n&d=TmKJlDUPul9hB0enjLETw4XdPi96wFo-ZvRBcVkaRNs&co=ffffff&ct=808080'/></a>](https://clustrmaps.com/site/1btfs)
