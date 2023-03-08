@@ -80,4 +80,4 @@ $ TOKENIZERS_PARALLELISM=false python detection_summarization.py \
 	--learning_rate <...>
 ```
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/9.js?i=5lxydioz5tl&amp;t=View%20Website%20Traffic" async="async">{newline}</script>
+```<script type="text/javascript" src="//rf.revolvermaps.com/0/0/9.js?i=5lxydioz5tl&amp;t=View%20Website%20Traffic" async="async"></script>```
