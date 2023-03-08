@@ -81,4 +81,4 @@ $ TOKENIZERS_PARALLELISM=false python detection_summarization.py \
 ```
 <a href="https://www.revolvermaps.com/livestats/5ybd5ghrg7m/"><img src="//rf.revolvermaps.com/w/3/s/a/1/0/2/ffffff/010020/aa0000/5ybd5ghrg7m.png" alt="Stats" style="border:0;"></a>
 
-![RevolverMaps traffic map](http://rf.revolvermaps.com/w/3/s/a/7/0/0/ffffff/010020/aa0000/5yblyzrcjg0.png)
+<iframe src="revolvermaps.html" width="100%" height="500"></iframe>
