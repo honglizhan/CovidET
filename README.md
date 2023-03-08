@@ -84,4 +84,4 @@ $ TOKENIZERS_PARALLELISM=false python detection_summarization.py \
 
 [![ClustrMaps Tracker](https://www.clustrmaps.com/map_v2.png?d=mLweXS1b401B1eThN866OzEuqjdpqlBMjF1OsZGy0hc&cl=ffffff)](https://clustrmaps.com/site/1btg0)
 
-(Since March 7th, 2023)
+(Traffic since March 7th, 2023)
