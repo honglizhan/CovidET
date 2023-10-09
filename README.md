@@ -1,4 +1,4 @@
-# CovidET-EMNLP2022
+# CovidET (EMNLP 2022)
 This repo contains the dataset and code for our EMNLP 2022 paper. If you use this dataset, please cite our paper.
 
 Title: Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Media Posts
